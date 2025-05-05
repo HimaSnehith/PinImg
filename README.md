@@ -18,9 +18,9 @@
 
 ## 🛠️ How to Use
 
-1. Download `OinImg.exe`
+1. Download `PinImg.exe`
 2. Double-click to launch
-3. Click **Load Image** to open any `.jpg`, `.png`, `.bmp`, etc.
+3. Click **Load Image** to open any `.jpg`, `.png`, `.bmp`,`.jpeg`, etc.
 4. Use your mouse wheel to zoom, click-drag to pan
 
 ---
